@@ -62,7 +62,11 @@
 # print("Sum :",sum)
 
 # Reverse a number.
-
+num = int(input("Enter a number : "))
+if num < 10:
+  print(f"{num}")
+else:
+  pass
 
 # Check if a number is palindrome.
 
