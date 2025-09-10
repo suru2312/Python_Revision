@@ -67,6 +67,7 @@ if num < 10:
   print(f"{num}")
 else:
   print("Bye World")
+  print("Hi")
 
 # Check if a number is palindrome.
 
