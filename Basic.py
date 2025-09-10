@@ -66,7 +66,7 @@ num = int(input("Enter a number : "))
 if num < 10:
   print(f"{num}")
 else:
-  pass
+  print("Hello World")
 
 # Check if a number is palindrome.
 
