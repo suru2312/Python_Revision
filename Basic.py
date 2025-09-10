@@ -62,18 +62,39 @@
 # print("Sum :",sum)
 
 # Reverse a number.
-num = int(input("Enter a number : "))
-if num < 10:
-  print(f"{num}")
-else:
-  print("Bye World")
-  print("Hi")
+# num = int(input("Enter a number : "))
+# if 0 <= num < 10:
+#     print(f"{num}")
+# else:
+#     print(str(num)[: : -1])
 
 # Check if a number is palindrome.
+# num = int(input("Enter a number : "))
+# if 0 <= num < 10:
+#     print(f"{num} is a single digit number.")
+# else:
+#     pallindrome = int(str(num)[: : -1])
+#     if pallindrome == num: 
+#         print(f"{num} is a pallindrome.")
+#     else:
+#         print(f"{num} is not a pallindrome.")
 
 # Calculate factorial of a number.
+# num = int(input("Enter a number : "))
+# fact = 1
+# for i in range(1, num+1):
+#     fact = fact * i
+# print(f"Factorial of {num} is : {fact}")
 
 # Generate Fibonacci series up to n terms.
+# n = int(input("Enter a number : "))
+# a = -1
+# b = 1
+# for i in range(n):
+#     c = a+b
+#     print(c, end = " ")
+#     a = b
+#     b = c
 
 # Check if a year is a leap year.
 
